@@ -1,5 +1,7 @@
 # Institut Teknologi Sepuluh Nopember (ITS)
 
+![Official ITS logo](https://www.its.ac.id/wp-content/uploads/2017/07/logo-its-1.png)
+
 **Advancing Humanity**
 
 Welcome to the official GitHub organization of Institut Teknologi Sepuluh Nopember (ITS). Guided by the spirit of Advancing Humanity, we share software, research artifacts, educational resources, and open technologies that contribute to science, engineering, industry, and society.
