@@ -1,6 +1,6 @@
 # Institut Teknologi Sepuluh Nopember (ITS)
 
-![Official ITS logo](https://www.its.ac.id/wp-content/uploads/2017/07/logo-its-1.png)
+![Official ITS logo](its-logo.png)
 
 **Advancing Humanity**
 
